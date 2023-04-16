@@ -1,0 +1,26 @@
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\bin\Debug\Proyecto 2 BD.exe.config
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\bin\Debug\Proyecto 2 BD.exe
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\bin\Debug\Proyecto 2 BD.pdb
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto 2 BD.csproj.AssemblyReference.cache
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto 2 BD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.Properties.Resources.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto 2 BD.csproj.GenerateResource.cache
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto 2 BD.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto 2 BD.exe
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto 2 BD.pdb
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.Login.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.docs.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.user.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.paciente.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.newpaciente.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.infopaciente.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.historial.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.newconsulta1.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.newconsulta2.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.newconsulta3.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.admin.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.traslados.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.bodega.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.usuarios.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.bitacora.resources
+C:\Users\Pablo Orellana\Documents\GitHub\Proyecto 2 BD\Proyecto 2 BD\obj\Debug\Proyecto_2_BD.reportes.resources
