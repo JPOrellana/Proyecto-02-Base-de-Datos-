@@ -16,7 +16,7 @@ namespace Proyecto_2_BD
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new bitacora());
+            Application.Run(new Login());
         }
     }
 }
